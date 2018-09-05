@@ -259,5 +259,21 @@
       ]
     }
   ],
-  "docVersions": []
+  "docVersions": [],
+  "__versionInfo": {
+    "raw": "6.1.0",
+    "major": 6,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": [
+      "local"
+    ],
+    "build": "sha.d42d85e",
+    "version": "6.1.1-local",
+    "codeName": "snapshot",
+    "isSnapshot": true,
+    "full": "6.1.1-local+sha.d42d85e",
+    "branch": "master",
+    "commitSHA": "d42d85e5e754b85618b5236024eaa8c7f7dac370"
+  }
 }
